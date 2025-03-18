@@ -49,7 +49,7 @@ Feel free to reach out—whether it's for a chat, questions, or gaming! 🎮
 </a>
 <br>
 <br>
-<a href="https://discord.com/users/andrade.95">
+<a href="https://discord.com/users/689497718393143319">
   <img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff" style="width: 145px; height: 45px;"/>
 </a>
 <br>
