@@ -1,4 +1,7 @@
 # Hi there! I'm João Miguel Andrade 👋
+<div align="center">
+  <img width="1000" alt="GIF" src="https://github.com/user-attachments/assets/12da01df-29b4-4f2a-9164-4f4dd9193b78"/> 
+</div>
 
 ## About Me 🚀  
 
@@ -20,18 +23,20 @@ I'm a student at **42 Porto**, passionate about learning and growing in the worl
 ## 🪖 Tech Arsenal
 
 <div align="center">
+  <img hight="350" width="250" alt="GIF" align="left" src="https://github.com/user-attachments/assets/aea8f951-d598-4621-adcf-f22e16d02e5b"/> 
+  <br>
+  <br>
   
   ![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=ffffff)
   ![Bash](https://img.shields.io/badge/-Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white)
   ![Valgrind](https://img.shields.io/badge/-Valgrind-%23614833?style=flat-square&logo=valgrind&logoColor=white)  
-
   ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
-  ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
+  ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)  
   ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=000000)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)  
-
 </div>
+<br>
+<br>
 
 ## 📬 Contact Me  
 
