@@ -63,7 +63,7 @@ Feel free to reach out—whether it's for a chat, questions, or gaming! 🎮
 
 
 
-## 𝗦𝘁𝗮𝘁𝘀 📊  
+## 📊 𝗦𝘁𝗮𝘁𝘀  
 
 <div align="center">
   <a href="https://github.com/andrade950">
