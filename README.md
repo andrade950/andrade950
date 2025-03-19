@@ -1,4 +1,4 @@
-# Hi there! I'm João Miguel Andrade 👋
+# Hi there! I'm João Miguel Andrade 👋😄
 <div align="center">
   <img width="1000" alt="GIF" src="https://github.com/user-attachments/assets/12da01df-29b4-4f2a-9164-4f4dd9193b78"/> 
 </div>
