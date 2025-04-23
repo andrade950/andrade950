@@ -21,7 +21,7 @@ I'm a student at **42 Porto**, passionate about learning and growing in the worl
 <br>
 <br>
 
-## 🪖 Tech Arsenal
+## 🪖 Arsenal Tech
 
 <div align="center">
   <img hight="350" width="250" alt="GIF" align="left" src="https://github.com/user-attachments/assets/aea8f951-d598-4621-adcf-f22e16d02e5b"/> 
