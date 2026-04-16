@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm João Andrade
 
 <div align="center">
-  <img width="1000" alt="Banner" src="https://github.com/user-attachments/assets/50385dd5-4912-4e84-b189-19fbb6dee004"/> 
+  <img width="1000" alt="Banner" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNud3BtNXpjOXlpb242Zzc1eHFydDRycnl2ZmZnaXRjbHkwNndnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif"/> 
 </div>
 
 ## 🚀 About Me
